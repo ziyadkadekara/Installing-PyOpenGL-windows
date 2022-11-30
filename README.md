@@ -46,13 +46,13 @@ then open terminal from that folder. Windows 10 lets you launch Command Prompt i
 
 after opening terminal enter the below command
 
-`pip install PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl --force-reinstall`
+`pip install PyOpenGL-3.1.6-cp38-cp38-win_amd64.whl --force-reinstall`
 
 then after installing it run the below command
 
-`pip install PyOpenGL_accelerate-3.1.5-cp38-cp38-win_amd64.whl --force-reinstall`
+`pip install PyOpenGL_accelerate-3.1.6-cp38-cp38-win_amd64.whl --force-reinstall`
 
-**Note** : Don't forget to change the file name ( e.g. : PyOpenGL-3.1.5-cp38-cp38-win_amd64.whl) to the file name that you have downloaded.
+**Note** : Don't forget to change the file name ( e.g. : PyOpenGL-3.1.6-cp38-cp38-win_amd64.whl) to the file name that you have downloaded.
 
 by Installing both if no error occurs Congratulation you have successfully Done the work.  now try to run the python code for opengl in your code editor. 
 Hope your problem is solved.
