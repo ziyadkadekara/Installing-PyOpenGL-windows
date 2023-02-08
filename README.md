@@ -31,11 +31,18 @@ go to this site : https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyopengl
 
 and download 
                                 
-    PyOpenGL‑3.1.6‑cp38‑cp38‑win_amd64.whl (for 64bit windows)  or
-    PyOpenGL‑3.1.6‑cp38‑cp38‑win32.whl (for 32 bit)
-                                        and
-    PyOpenGL_accelerate‑3.1.6‑cp38‑cp38‑win_amd64.whl (for windows 64bit) or
-    PyOpenGL_accelerate‑3.1.6‑cp38‑cp38‑win32.whl  (for windows 32bit)
+    (for 64bit windows)
+    
+    PyOpenGL‑3.1.6‑cp38‑cp38‑win_amd64.whl
+    PyOpenGL_accelerate‑3.1.6‑cp38‑cp38‑win_amd64.whl
+    
+    or 
+    
+    (for 32 bit windows)
+    
+    PyOpenGL‑3.1.6‑cp38‑cp38‑win32.whl 
+    PyOpenGL_accelerate‑3.1.6‑cp38‑cp38‑win32.whl                                   
+    
 
 **Note** :  I have in installed python 3.8.0. so I downloaded PyOpenGL  having cp38 word in it. If you have installed python 3.9 or other version download the above mentioned file having name cp39,cp10 etc.
 
