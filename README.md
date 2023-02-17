@@ -9,6 +9,9 @@ step by step instructions for you guys .
 
 Install python in your system windows 10/11 preferred.
 for python 3.8.0 : https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+while install select add to PATH option in the installing interface.
+
+After Installing Restart your system.
 
 If you have already installed then check for your python version
 
